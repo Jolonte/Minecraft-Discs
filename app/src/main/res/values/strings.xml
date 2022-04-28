@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MinecraftVoices</string>
+    <string name="mellohi">Mellohi</string>
+    <string name="thirteen">thirteen</string>
+    <string name="cat">Cat</string>
+    <string name="blocks">Blocks</string>
+    <string name="chirp">Chirp</string>
+    <string name="far">Far</string>
+    <string name="mall">Mall</string>
+    <string name="stal">Stal</string>
+    <string name="strad">Strad</string>
+    <string name="ward">Ward</string>
+    <string name="eleven">Eleven</string>
+    <string name="wait">Wait</string>
+    <string name="pigstep">Pigstep</string>
+    <string name="otherside">Otherside</string>
+    <string name="button">Button</string>
+</resources>
