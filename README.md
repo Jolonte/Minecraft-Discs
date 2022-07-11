@@ -1,7 +1,7 @@
 # Minecraft Discs
 
 <p align="center">
-  <img height="400em" src="assets/to_readme/cover.png"
+  <img height="800em" src="to_readme/cover.png"
 </p>
 
 ![GitHub language count](https://img.shields.io/github/languages/count/Jolonte/Minecraft-Discs)
